@@ -33,8 +33,8 @@ query($login: String!) {
     followers { totalCount }
     pullRequests { totalCount }
     issues { totalCount }
+    allRepos: repositories(ownerAffiliations: OWNER) { totalCount }
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
-      totalCount
       nodes {
         stargazerCount
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
@@ -90,7 +90,7 @@ def fetch():
         "followers": u["followers"]["totalCount"],
         "prs": u["pullRequests"]["totalCount"],
         "issues": u["issues"]["totalCount"],
-        "repos": u["repositories"]["totalCount"],
+        "repos": u["allRepos"]["totalCount"],
         "stars": stars,
         "commits": cc["totalCommitContributions"],
         "contrib": cal["totalContributions"],
