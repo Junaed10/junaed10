@@ -117,17 +117,48 @@ I have a strong foundation in software development, problem solving, API integra
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%230891b2" width="26" height="26" align="absmiddle"/>&nbsp; Featured Projects
 
 <!--
-  Screenshots live in /assets (exact file names, case-sensitive):
-  Flixora.png, Miran.png, PixieRag.png, Oporajita.png, Portfolio.png
-  Add GitHub "Source code" badges to any project once you decide to share its repository.
+  Project cards live in /assets (exact file names, case-sensitive):
+  card-flixora.svg, card-miraan.svg, card-pixiegpt_.svg, card-oporajita_.svg, card-portfolio.svg
+  Each card is 480x588. Click a card to open the live project.
+  Full project details are in the collapsible sections below the cards.
 -->
 
-<p align="center">
-  <a href="https://flixora-phi.vercel.app/"><img src="assets/Flixora.png" width="760" alt="Flixora screenshot"/></a>
-</p>
+<div align="center">
 
-### Flixora
-**Movie, TV Series & Live Streaming Platform**
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://flixora-phi.vercel.app/"><img src="assets/card-flixora.svg" width="400" alt="Flixora - Movie, TV Series and Live Streaming Platform"/></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://miraan-ecommerce.vercel.app/"><img src="assets/card-miraan.svg" width="400" alt="Miraan Bangladesh - Full-Stack Fashion E-Commerce"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://pixiegpt.vercel.app/"><img src="assets/card-pixiegpt_.svg" width="400" alt="PixieGPT - AI-Powered Question Answering Platform"/></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://ecommerce-eosin-eta.vercel.app/"><img src="assets/card-oporajita_.svg" width="400" alt="Oporajita - Bangla Online Marketplace for Pure Products"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <a href="https://junaed10portfolio.vercel.app/"><img src="assets/card-portfolio.svg" width="400" alt="Portfolio - Interactive Developer Portfolio"/></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ---------- Project details (collapsible) ---------- -->
+
+<details>
+<summary><b>Flixora</b> &nbsp;·&nbsp; Movie, TV Series &amp; Live Streaming Platform</summary>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://flixora-phi.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
 
@@ -138,16 +169,12 @@ I have a strong foundation in software development, problem solving, API integra
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets"/>
 
+</details>
+
+<details>
+<summary><b>Miraan Bangladesh</b> &nbsp;·&nbsp; Full-Stack Fashion E-Commerce</summary>
+
 <br/>
-
----
-
-<p align="center">
-  <a href="https://miraan-ecommerce.vercel.app/"><img src="assets/Miran.png" width="760" alt="Miraan e-commerce screenshot"/></a>
-</p>
-
-### Miraan Bangladesh
-**Full-Stack Fashion E-Commerce**
 
 <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://miraan-ecommerce.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
 
@@ -158,18 +185,14 @@ I have a strong foundation in software development, problem solving, API integra
 
 <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 14"/> <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 18"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/> <img src="https://img.shields.io/badge/ImageKit-1d4ed8?style=flat-square" alt="ImageKit"/> <img src="https://img.shields.io/badge/SWR-000000?style=flat-square" alt="SWR"/>
 
+</details>
+
+<details>
+<summary><b>PixieGPT</b> &nbsp;·&nbsp; AI-Powered Question Answering Web Platform</summary>
+
 <br/>
 
----
-
-<p align="center">
-  <a href="https://pixiegpt.vercel.app/"><img src="assets/PixieRag.png" width="760" alt="PixieGPT screenshot"/></a>
-</p>
-
-### PixieGPT
-**AI-Powered Question Answering Web Platform**
-
-<img src="https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square" alt="Status: In Progress"/> <a href="https://pixiegpt.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
+<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://pixiegpt.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
 
 - Built a Next.js and TypeScript Q&amp;A web platform integrated with an **ML-based RAG retrieval system**, using Clerk for secure authentication and Neon PostgreSQL as the database.
 - Implemented RAG with NLU, **document chunking (LangChain)**, Pandas/NumPy data processing, **Sentence-Transformer embeddings** and **FAISS vector semantic search**.
@@ -177,35 +200,27 @@ I have a strong foundation in software development, problem solving, API integra
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/> <img src="https://img.shields.io/badge/Neon-00A878?style=flat-square" alt="Neon"/>
 
+</details>
+
+<details>
+<summary><b>Oporajita (অপরাজিতা)</b> &nbsp;·&nbsp; Bangla Online Marketplace for Pure Products</summary>
+
 <br/>
 
----
-
-<p align="center">
-  <img src="assets/Oporajita.png" width="760" alt="Oporajita marketplace screenshot"/>
-</p>
-
-### Oporajita (অপরাজিতা)
-**Bangla Online Marketplace for Pure Products**
-
-
+<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://ecommerce-eosin-eta.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
 
 - Bangla-language e-commerce storefront for pure, authentic products such as **honey, dates, spices, nuts and seeds, drinks, rice, flour and lentils**.
 - Category-wise browsing, **product search**, wishlist, cart with a live item and total summary, and a **flash sale** section.
 - Product cards with **offer, new and best-selling labels**, discount percentages, ratings count and quick add-to-cart.
-<!-- Add this project's live link, source link and tech stack here when ready. -->
 
+<!-- Add this project's source link and tech stack here when ready. -->
+
+</details>
+
+<details>
+<summary><b>Personal Portfolio</b> &nbsp;·&nbsp; Interactive Developer Portfolio</summary>
 
 <br/>
-
----
-
-<p align="center">
-  <a href="https://junaed10portfolio.vercel.app/"><img src="assets/Portfolio.png" width="760" alt="Portfolio website screenshot"/></a>
-</p>
-
-### Personal Portfolio
-**Interactive Developer Portfolio**
 
 <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://junaed10portfolio.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a> <a href="https://github.com/Junaed10/Junaed_Al_Mubin_Portfolio"><img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
 
@@ -215,9 +230,9 @@ I have a strong foundation in software development, problem solving, API integra
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
-<br/>
+</details>
 
----
+<br/>
 
 <div align="center">
 
