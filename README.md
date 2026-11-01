@@ -118,7 +118,7 @@ I have a strong foundation in software development, problem solving, API integra
 
 <!--
   Project cards live in /assets (exact file names, case-sensitive):
-  card-flixora.svg, card-miraan.svg, card-pixiegpt_.svg, card-oporajita_.svg, card-portfolio.svg
+  card-flixora.svg, card-miraan.svg, card-pixiegpt.svg, card-oporajita.svg, card-portfolio.svg
   Each card is 480x588. Click a card to open the live project.
   Full project details are in the collapsible sections below the cards.
 -->
@@ -136,10 +136,10 @@ I have a strong foundation in software development, problem solving, API integra
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://pixiegpt.vercel.app/"><img src="assets/card-pixiegpt_.svg" width="400" alt="PixieGPT - AI-Powered Question Answering Platform"/></a>
+      <a href="https://pixiegpt.vercel.app/"><img src="assets/card-pixiegpt.svg" width="400" alt="PixieGPT - AI-Powered Question Answering Platform"/></a>
     </td>
     <td align="center" valign="top">
-      <a href="https://ecommerce-eosin-eta.vercel.app/"><img src="assets/card-oporajita_.svg" width="400" alt="Oporajita - Bangla Online Marketplace for Pure Products"/></a>
+      <a href="https://ecommerce-eosin-eta.vercel.app/"><img src="assets/card-oporajita.svg" width="400" alt="Oporajita - Bangla Online Marketplace for Pure Products"/></a>
     </td>
   </tr>
   <tr>
