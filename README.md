@@ -117,31 +117,109 @@ I have a strong foundation in software development, problem solving, API integra
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%230891b2" width="26" height="26" align="absmiddle"/>&nbsp; Featured Projects
 
 <!--
-  Replace every REPLACE_REPO_NAME below with your real repository name.
-  The cards load automatically from your public repositories.
-  Cards use a fixed width (400) instead of a table: on desktop two sit side by side,
-  on mobile they stack one per row and shrink to fit the screen.
+  Screenshots live in /assets (exact file names, case-sensitive):
+  Flixora.png, Miran.png, PixieRag.png, Oporajita.png, Portfolio.png
+  Add GitHub "Source code" badges to any project once you decide to share its repository.
 -->
 
+<p align="center">
+  <a href="https://flixora-phi.vercel.app/"><img src="assets/Flixora.png" width="760" alt="Flixora screenshot"/></a>
+</p>
+
+### Flixora
+**Movie, TV Series & Live Streaming Platform**
+
+<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://flixora-phi.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
+
+- Built a movie and TV series streaming platform with **live broadcasting**, a responsive mobile and web interface, and a **media upload system**.
+- Implemented a **role-based system** (Admin, Moderator, Subscriber) with real-time admin-to-admin and user-to-admin **messaging and notifications using WebSockets**.
+- Developed with Next.js, Express.js and Clerk authentication, plus multiple APIs for movie, rating and media data.
+- Integrated **subscription management and a payment workflow** for premium streaming access.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets"/>
+
+<br/>
+
+---
+
+<p align="center">
+  <a href="https://miraan-ecommerce.vercel.app/"><img src="assets/Miran.png" width="760" alt="Miraan e-commerce screenshot"/></a>
+</p>
+
+### Miraan Bangladesh
+**Full-Stack Fashion E-Commerce**
+
+<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://miraan-ecommerce.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
+
+- Production-ready fashion e-commerce platform with a product catalog, **advanced filtering, cart, checkout, promo codes and an invoice system**.
+- Role-based **admin dashboard** for managing products, banners, inventory, users and analytics reports.
+- Developed using Next.js 14, React 18, TypeScript, PostgreSQL (Prisma ORM) and Clerk authentication.
+- Integrated ImageKit CDN, SWR API fetching, a live chat widget and Bangladesh-specific features (৳ currency, 64-district delivery system).
+
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 14"/> <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 18"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/> <img src="https://img.shields.io/badge/ImageKit-1d4ed8?style=flat-square" alt="ImageKit"/> <img src="https://img.shields.io/badge/SWR-000000?style=flat-square" alt="SWR"/>
+
+<br/>
+
+---
+
+<p align="center">
+  <a href="https://pixiegpt.vercel.app/"><img src="assets/PixieRag.png" width="760" alt="PixieGPT screenshot"/></a>
+</p>
+
+### PixieGPT
+**AI-Powered Question Answering Web Platform**
+
+<img src="https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square" alt="Status: In Progress"/> <a href="https://pixiegpt.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a>
+
+- Built a Next.js and TypeScript Q&amp;A web platform integrated with an **ML-based RAG retrieval system**, using Clerk for secure authentication and Neon PostgreSQL as the database.
+- Implemented RAG with NLU, **document chunking (LangChain)**, Pandas/NumPy data processing, **Sentence-Transformer embeddings** and **FAISS vector semantic search**.
+- Deployed the frontend on Vercel, with a FastAPI backend.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/> <img src="https://img.shields.io/badge/Neon-00A878?style=flat-square" alt="Neon"/>
+
+<br/>
+
+---
+
+<p align="center">
+  <img src="assets/Oporajita.png" width="760" alt="Oporajita marketplace screenshot"/>
+</p>
+
+### Oporajita (অপরাজিতা)
+**Bangla Online Marketplace for Pure Products**
+
+
+
+- Bangla-language e-commerce storefront for pure, authentic products such as **honey, dates, spices, nuts and seeds, drinks, rice, flour and lentils**.
+- Category-wise browsing, **product search**, wishlist, cart with a live item and total summary, and a **flash sale** section.
+- Product cards with **offer, new and best-selling labels**, discount percentages, ratings count and quick add-to-cart.
+<!-- Add this project's live link, source link and tech stack here when ready. -->
+
+
+<br/>
+
+---
+
+<p align="center">
+  <a href="https://junaed10portfolio.vercel.app/"><img src="assets/Portfolio.png" width="760" alt="Portfolio website screenshot"/></a>
+</p>
+
+### Personal Portfolio
+**Interactive Developer Portfolio**
+
+<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Status: Live"/> <a href="https://junaed10portfolio.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_website-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live demo"/></a> <a href="https://github.com/Junaed10/Junaed_Al_Mubin_Portfolio"><img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+
+- Interactive portfolio website with a **3D animated avatar** hero section, and dedicated About, Work and Contact sections.
+- Includes a resume link and quick social links (GitHub, LinkedIn, Instagram) for recruiters.
+- Languages: TypeScript 60.2% &nbsp;·&nbsp; CSS 38.9% &nbsp;·&nbsp; Other 0.9%
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+
+<br/>
+
+---
+
 <div align="center">
-
-<a href="https://github.com/Junaed10/REPLACE_REPO_NAME">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Junaed10&repo=REPLACE_REPO_NAME&theme=tokyonight&hide_border=true" width="400" alt="PixieGPT"/>
-</a>
-<a href="https://github.com/Junaed10/REPLACE_REPO_NAME">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Junaed10&repo=REPLACE_REPO_NAME&theme=tokyonight&hide_border=true" width="400" alt="E-commerce platform"/>
-</a>
-<a href="https://github.com/Junaed10/REPLACE_REPO_NAME">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Junaed10&repo=REPLACE_REPO_NAME&theme=tokyonight&hide_border=true" width="400" alt="Streaming platform"/>
-</a>
-
-<br/>
-
-**PixieGPT** · RAG Q&A platform (Python, FastAPI, LangChain, FAISS)<br/>
-**E-Commerce Platform** · Full-stack store (React/Next.js, TypeScript, Express, PostgreSQL)<br/>
-**Streaming Platform** · Video streaming web app (Next.js, Django, PostgreSQL)
-
-<br/>
 
 <a href="https://github.com/Junaed10?tab=repositories">
   <img src="https://img.shields.io/badge/View_all_repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
