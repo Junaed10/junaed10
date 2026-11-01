@@ -1,13 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0e7490&height=210&section=header&text=Md.%20Junaed%20Al%20Mubin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58" alt="Header" width="100%"/>
-
-<a href="https://github.com/Junaed10/Junaed10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+TypeScript+%7C+Django+%7C+FastAPI;Exploring+RAG+and+AI-powered+software;Currently+learning+C%23+and+ASP.NET+Core+MVC" alt="Typing SVG"/>
-</a>
-
-<br/>
+<img src="assets/header-banner.svg" alt="Md. Junaed Al Mubin - Computer Science and Engineering | Full-Stack Developer | AI Enthusiast" width="100%"/>
 
 <img src="assets/status-bar.svg" alt="Open to work: Internship / Junior Developer - Dhaka, Bangladesh" width="900"/>
 
