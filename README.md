@@ -56,27 +56,62 @@ I have a strong foundation in software development, problem solving, API integra
 
 <div align="center">
 
+<!-- Click any icon to open the official website. -->
+
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,php,html,css&perline=9" alt="Languages"/>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/></a>&nbsp;&nbsp;
+<a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/></a>&nbsp;&nbsp;
+<a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/></a>&nbsp;&nbsp;
+<a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/></a>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,bootstrap&perline=9" alt="Frontend"/>
+<a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>&nbsp;&nbsp;
+<a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/></a>&nbsp;&nbsp;
+<a href="https://vuejs.org" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js"/></a>&nbsp;&nbsp;
+<a href="https://angular.dev" title="Angular"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/></a>&nbsp;&nbsp;
+<a href="https://vite.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/></a>
 
 **Backend & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&perline=9" alt="Backend"/>
+<a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>&nbsp;&nbsp;
+<a href="https://expressjs.com" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/></a>&nbsp;&nbsp;
+<a href="https://www.djangoproject.com" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/></a>&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/></a>
 
 **Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,prisma&perline=9" alt="Databases"/>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a>&nbsp;&nbsp;
+<a href="https://www.oracle.com/database/" title="Oracle"><img src="assets/tile-oracle.svg" width="48" height="48" alt="Oracle"/></a>&nbsp;&nbsp;
+<a href="https://www.prisma.io" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/></a>
 
 **AI, ML & Data**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib&perline=9" alt="AI and Data"/><br/>
-<img src="assets/rag-icons.svg" alt="LangChain, FAISS" width="106" height="48"/>
+<a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"/></a>&nbsp;&nbsp;
+<a href="https://numpy.org" title="NumPy"><img src="assets/tile-numpy.svg" width="48" height="48" alt="NumPy"/></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org" title="Pandas"><img src="assets/tile-pandas.svg" width="48" height="48" alt="Pandas"/></a>&nbsp;&nbsp;
+<a href="https://matplotlib.org" title="Matplotlib"><img src="assets/tile-matplotlib.svg" width="48" height="48" alt="Matplotlib"/></a>&nbsp;&nbsp;
+<a href="https://www.langchain.com" title="LangChain"><img src="assets/tile-langchain.svg" width="48" height="48" alt="LangChain"/></a>&nbsp;&nbsp;
+<a href="https://faiss.ai" title="FAISS"><img src="assets/tile-faiss.svg" width="48" height="48" alt="FAISS"/></a>
 
 **Tools & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,apache&perline=9" alt="Tools"/>
+<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/></a>&nbsp;&nbsp;
+<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>&nbsp;&nbsp;
+<a href="https://httpd.apache.org" title="Apache"><img src="assets/tile-apache.svg" width="48" height="48" alt="Apache"/></a>
 
 **Currently Learning**<br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=9" alt="Learning"/>
+<a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/></a>
 
 </div>
 
