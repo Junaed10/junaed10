@@ -7,6 +7,7 @@
 
 <br/>
 
+<a href="https://junaed10portfolio.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44"/></a>
 <a href="https://www.linkedin.com/in/md-junaed-al-mubin-577710186/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
 <a href="mailto:junaed10rafi@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"/></a>
 <a href="https://www.facebook.com/junaedalrafin"><img src="assets/btn-facebook.svg" alt="Facebook" height="44"/></a>
@@ -29,6 +30,7 @@ I have a strong foundation in software development, problem solving, API integra
 <img src="https://api.iconify.design/lucide/cpu.svg?color=%230891b2" width="18" height="18" align="absmiddle"/>&nbsp;**Building:** AI-powered applications using Retrieval-Augmented Generation (RAG)<br/>
 <img src="https://api.iconify.design/lucide/book-open.svg?color=%230891b2" width="18" height="18" align="absmiddle"/>&nbsp;**Learning:** C#, ASP.NET Core MVC and the wider .NET ecosystem<br/>
 <img src="https://api.iconify.design/lucide/briefcase.svg?color=%230891b2" width="18" height="18" align="absmiddle"/>&nbsp;**Looking for:** Internship / junior developer roles (remote or on-site in Bangladesh)<br/>
+<img src="https://api.iconify.design/lucide/globe.svg?color=%230891b2" width="18" height="18" align="absmiddle"/>&nbsp;**Portfolio:** [junaed10portfolio.vercel.app](https://junaed10portfolio.vercel.app/)<br/>
 <img src="https://api.iconify.design/lucide/mail.svg?color=%230891b2" width="18" height="18" align="absmiddle"/>&nbsp;**Contact:** [junaed10rafi@gmail.com](mailto:junaed10rafi@gmail.com)
 
 <br/>
@@ -176,10 +178,11 @@ I have a strong foundation in software development, problem solving, API integra
 <!-- ===================== CONTACT ===================== -->
 ## <img src="https://api.iconify.design/lucide/users.svg?color=%230891b2" width="26" height="26" align="absmiddle"/>&nbsp; Let's Connect
 
-I am open to **internships and junior developer opportunities**, and always happy to talk about web development, AI and new ideas.
+I am open to **internships and junior developer opportunities**, and always happy to talk about web development, AI and new ideas. You can see my work on my [portfolio](https://junaed10portfolio.vercel.app/).
 
 <div align="center">
 
+<a href="https://junaed10portfolio.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="48"/></a>
 <a href="https://www.linkedin.com/in/md-junaed-al-mubin-577710186/"><img src="assets/btn-linkedin.svg" alt="Connect on LinkedIn" height="48"/></a>
 <a href="mailto:junaed10rafi@gmail.com"><img src="assets/btn-email.svg" alt="Send an email" height="48"/></a>
 
