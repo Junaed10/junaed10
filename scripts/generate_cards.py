@@ -253,7 +253,7 @@ def card_streak(d):
         f'<line x1="466.5" y1="34" x2="466.5" y2="{h - 34}" stroke="#1e293b"/>'
         # total
         f'<g class="fade"><text x="{cols[0]}" y="98" text-anchor="middle" font-size="36" font-weight="700" fill="url(#accent)" '
-        f'style="font-family:inherit">{n(d["contrib"])}</text>'
+        f'>{n(d["contrib"])}</text>'
         f'<text x="{cols[0]}" y="140" text-anchor="middle" class="l">Total contributions</text>'
         f'<text x="{cols[0]}" y="160" text-anchor="middle" class="s">{fdate(span[0])} – {fdate(span[1])}</text></g>'
         # current ring
@@ -262,12 +262,12 @@ def card_streak(d):
         f'<circle class="glow" cx="{cols[1]}" cy="76" r="44" fill="none" stroke="url(#accentV)" stroke-width="7" stroke-linecap="round" '
         f'stroke-dasharray="{arc:.1f} {circ:.1f}" transform="rotate(-90 {cols[1]} 76)" style="animation:ring 1.8s cubic-bezier(.4,0,.2,1) .4s both,glow 3s ease-in-out 2.2s infinite"/>'
         f'<g transform="translate({cols[1] - 9.6} 40) scale(.8)" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">{FLAME}</g>'
-        f'<text x="{cols[1]}" y="90" text-anchor="middle" font-size="30" font-weight="700" fill="#f8fafc" style="font-family:inherit">{n(cur)}</text>'
+        f'<text x="{cols[1]}" y="90" text-anchor="middle" font-size="30" font-weight="700" fill="#f8fafc">{n(cur)}</text>'
         f'<text x="{cols[1]}" y="140" text-anchor="middle" class="l">Current streak</text>'
         f'<text x="{cols[1]}" y="160" text-anchor="middle" class="s">{escape(rng(cur_r))}</text></g>'
         # longest
         f'<g class="fade" style="animation-delay:.3s"><text x="{cols[2]}" y="98" text-anchor="middle" font-size="36" font-weight="700" fill="url(#accent)" '
-        f'style="font-family:inherit">{n(best)}</text>'
+        f'>{n(best)}</text>'
         f'<text x="{cols[2]}" y="140" text-anchor="middle" class="l">Longest streak</text>'
         f'<text x="{cols[2]}" y="160" text-anchor="middle" class="s">{escape(rng(best_r))}</text></g>'
     )
@@ -327,7 +327,7 @@ def card_activity(d):
             f'<circle cx="{px:.1f}" cy="{py:.1f}" r="4.5" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>'
             f'<rect x="{bx:.1f}" y="{py - 36:.1f}" width="{bw:.1f}" height="22" rx="6" fill="#0e1a2f" stroke="#334155"/>'
             f'<text x="{bx + bw / 2:.1f}" y="{py - 21:.1f}" text-anchor="middle" font-size="11.5" font-weight="600" fill="#e2e8f0" '
-            f'style="font-family:inherit">{label}</text></g>'
+            f'>{label}</text></g>'
         )
     return wrap(W, h, "Contribution activity", body, draw_css)
 
