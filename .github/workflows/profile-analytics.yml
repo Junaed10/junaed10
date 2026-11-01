@@ -2,26 +2,38 @@ name: Update Profile Analytics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # every 6 hours
   push:
     branches: [main]
-  workflow_dispatch:
+  workflow_dispatch:         # manual "Run workflow" button
 
 permissions:
   contents: write
 
 jobs:
-  summary-cards:
+  cards:
+    name: Generate animated analytics cards
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+
+      - name: Generate cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
+          # Optional: add a Personal Access Token as secret GH_PAT to include
+          # private contributions. Falls back to the default token.
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+        run: python3 scripts/generate_cards.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          git diff --cached --quiet || (git commit -m "chore: update analytics cards" && git push)
 
   snake:
+    name: Generate contribution snake
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk/svg-only@v3
@@ -30,6 +42,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
