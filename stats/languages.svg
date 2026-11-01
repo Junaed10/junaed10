@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="248" viewBox="0 0 700 248" role="img" aria-label="Top languages">
+<title>Top languages</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#101a30"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#6366f1"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".38"/><stop offset=".6" stop-color="#6366f1" stop-opacity=".12"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></linearGradient>
+<style>
+text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.t{fill:#e2e8f0;font-size:17px;font-weight:600}
+.m{fill:#94a3b8;font-size:12px}
+.u{fill:#94a3b8;font-size:11px;font-weight:600;letter-spacing:.08em}
+.s{fill:#64748b;font-size:11px}
+.v{fill:#f8fafc;font-size:28px;font-weight:700}
+.l{fill:#cbd5e1;font-size:13px;font-weight:600}
+.fade{animation:fade .7s cubic-bezier(.22,1,.36,1) both}
+@keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.22,1,.36,1) both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.draw{animation:draw 2.4s cubic-bezier(.4,0,.2,1) both}
+.appear{animation:appear 1.2s ease-out both}
+@keyframes appear{from{opacity:0}to{opacity:1}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes pop{from{opacity:0;transform:scale(0)}to{opacity:1;transform:scale(1)}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:0;transform:scale(2.2)}}
+.glow{animation:glow 3s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.6}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<rect x=".5" y=".5" width="699" height="247" rx="14" fill="url(#bg)" stroke="#1e293b"/>
+<defs><linearGradient id="lg0" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#38bdf8"/></linearGradient><linearGradient id="lg1" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1"/></linearGradient><linearGradient id="lg2" x1="0" x2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient><linearGradient id="lg3" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><linearGradient id="lg4" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><linearGradient id="lg5" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#e879f9"/></linearGradient></defs><g class="fade"><text x="35" y="38" class="t">Top Languages</text><text x="665" y="38" text-anchor="end" class="m">by code size across repositories</text></g><rect class="grow" x="35" y="48" width="56" height="3" rx="1.5" fill="url(#accent)"/><g class="grow" style="animation-delay:.2s"><clipPath id="clip"><rect x="35" y="68" width="630" height="10" rx="5"/></clipPath><g clip-path="url(#clip)"><rect x="35.0" y="68" width="292.4" height="10" fill="#22d3ee"/><rect x="326.8" y="68" width="223.4" height="10" fill="#38bdf8"/><rect x="549.6" y="68" width="58.9" height="10" fill="#6366f1"/><rect x="608.0" y="68" width="57.6" height="10" fill="#8b5cf6"/></g></g><g class="fade" style="animation-delay:0.25s"><circle cx="41" cy="108" r="4.5" fill="#22d3ee"/><text x="56" y="112" class="l">HTML</text><rect x="200" y="102" width="400" height="8" rx="4" fill="#1b2740"/><rect class="grow" style="animation-delay:0.50s" x="200" y="102" width="400.0" height="8" rx="4" fill="url(#lg0)"/><text x="665" y="112" text-anchor="end" class="m">46.3%</text></g><g class="fade" style="animation-delay:0.35s"><circle cx="41" cy="140" r="4.5" fill="#38bdf8"/><text x="56" y="144" class="l">CSS</text><rect x="200" y="134" width="400" height="8" rx="4" fill="#1b2740"/><rect class="grow" style="animation-delay:0.62s" x="200" y="134" width="305.3" height="8" rx="4" fill="url(#lg1)"/><text x="665" y="144" text-anchor="end" class="m">35.4%</text></g><g class="fade" style="animation-delay:0.45s"><circle cx="41" cy="172" r="4.5" fill="#6366f1"/><text x="56" y="176" class="l">Python</text><rect x="200" y="166" width="400" height="8" rx="4" fill="#1b2740"/><rect class="grow" style="animation-delay:0.74s" x="200" y="166" width="80.0" height="8" rx="4" fill="url(#lg2)"/><text x="665" y="176" text-anchor="end" class="m">9.3%</text></g><g class="fade" style="animation-delay:0.55s"><circle cx="41" cy="204" r="4.5" fill="#8b5cf6"/><text x="56" y="208" class="l">JavaScript</text><rect x="200" y="198" width="400" height="8" rx="4" fill="#1b2740"/><rect class="grow" style="animation-delay:0.86s" x="200" y="198" width="78.2" height="8" rx="4" fill="url(#lg3)"/><text x="665" y="208" text-anchor="end" class="m">9.1%</text></g>
+</svg>
