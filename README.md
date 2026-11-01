@@ -161,13 +161,13 @@ I have a strong foundation in software development, problem solving, API integra
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Junaed10/Junaed10/main/stats/github-overview.svg" width="700" alt="GitHub overview"/>
+<img src="assets/github-overview.svg" width="700" alt="GitHub overview"/>
 
-<img src="https://raw.githubusercontent.com/Junaed10/Junaed10/main/stats/github-streak.svg" width="700" alt="Contribution streak"/>
+<img src="assets/github-streak.svg" width="700" alt="Contribution streak"/>
 
-<img src="https://raw.githubusercontent.com/Junaed10/Junaed10/main/stats/github-activity.svg" width="700" alt="Contribution activity"/>
+<img src="assets/github-activity.svg" width="700" alt="Contribution activity"/>
 
-<img src="https://raw.githubusercontent.com/Junaed10/Junaed10/main/stats/github-languages.svg" width="700" alt="Top languages"/>
+<img src="assets/github-languages.svg" width="700" alt="Top languages"/>
 
 </div>
 
